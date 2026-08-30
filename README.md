@@ -86,6 +86,7 @@ This emulator is compatible with both Android and iOS devices. However, WebKit o
 ## Main differences with the original project:
 
 - Transpiled JS to pre-ES2015 via `node ConverterES5.js fbalpha2012.js`.
+- Fixed graphical glitches in Caveman Ninja.
 
 ## This is a modified version of fbalpha2012:
 
