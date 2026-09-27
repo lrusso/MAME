@@ -93,6 +93,7 @@ This emulator is compatible with both Android and iOS devices. However, WebKit o
 - Fixed Operation Wolf being unplayable without an analog stick.
 - Fixed Line of Fire being unplayable without an analog stick.
 - Fixed Top Speed being unplayable without an analog stick.
+- Fixed Strike Fighter being unplayable without an analog stick.
 
 ## This is a modified version of fbalpha2012:
 
