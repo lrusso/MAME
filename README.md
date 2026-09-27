@@ -92,6 +92,7 @@ This emulator is compatible with both Android and iOS devices. However, WebKit o
 - Fixed Sega racing games being unplayable without an analog stick.
 - Fixed Operation Wolf being unplayable without an analog stick.
 - Fixed Line of Fire being unplayable without an analog stick.
+- Fixed Top Speed being unplayable without an analog stick.
 
 ## This is a modified version of fbalpha2012:
 
