@@ -1482,10 +1482,8 @@ function _typeof(A){return _typeof="function"==typeof Symbol&&"symbol"==typeof S
     globals.window["MAME_EMU"]._retro_serialize(buf, size)
 
     var arr = new Uint8Array(
-      globals.window["MAME_EMU"].HEAPU8.buffer,
-      buf,
-      size
-    ).slice()
+      globals.window["MAME_EMU"].HEAPU8.subarray(buf, buf + size)
+    )
     var blob = new Blob([arr], { type: "application/octet-stream" })
 
     var url = URL.createObjectURL(blob)
