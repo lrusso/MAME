@@ -886,7 +886,7 @@ function _typeof(A){return _typeof="function"==typeof Symbol&&"symbol"==typeof S
     }
 
     if (config.showMobileControls) {
-      function sendVirtualKey(keyState, keyCode) {
+      var sendVirtualKey = function (keyState, keyCode) {
         var mapping = globals.window["MAME_KEYMAP"][keyCode]
         if (mapping !== undefined) {
           globals.window["MAME_INPUTSTATE"][mapping.port][mapping.btn] =
