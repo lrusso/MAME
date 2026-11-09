@@ -95,6 +95,10 @@ This emulator is compatible with both Android and iOS devices. However, WebKit o
 - Fixed Top Speed being unplayable without an analog stick.
 - Fixed Strike Fighter being unplayable without an analog stick.
 - Fixed Super Street Fighter II having no sound in attract mode.
+- Fixed X-Men: Children of the Atom having no sound in attract mode.
+- Fixed Alien vs. Predator having no sound in attract mode.
+- Fixed Cadillacs and Dinosaurs having no sound in attract mode.
+- Fixed The Punisher having no sound in attract mode.
 
 ## This is a modified version of fbalpha2012:
 
