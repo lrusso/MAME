@@ -19,7 +19,7 @@ A MAME emulator with mobile compatibility designed for running in pure JavaScrip
 
 ## How to use it:
 
-Examples of loading local and online files can be found [here](https://github.com/lrusso/MAME/blob/main/MAME.htm#L137-L175) and [here](https://github.com/lrusso/MAME/blob/main/MAME.htm#L203-L236).
+Examples of loading local and online files can be found [here](https://github.com/lrusso/MAME/blob/main/MAME.htm#L162-L200) and [here](https://github.com/lrusso/MAME/blob/main/MAME.htm#L231-L264).
 
 ```js
 embedMAME({
