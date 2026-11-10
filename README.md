@@ -99,6 +99,7 @@ This emulator is compatible with both Android and iOS devices. However, WebKit o
 - Fixed Alien vs. Predator having no sound in attract mode.
 - Fixed Cadillacs and Dinosaurs having no sound in attract mode.
 - Fixed The Punisher having no sound in attract mode.
+- Fixed Super Street Fighter II showing grey boxes on the continue screen.
 
 ## This is a modified version of fbalpha2012:
 
